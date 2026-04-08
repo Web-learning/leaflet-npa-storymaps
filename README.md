@@ -3,7 +3,7 @@ Customize your Leaflet story map with linked Google Sheets template and scrollin
 Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
 
 <p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/17613697/575353231-4e9fcdcb-7bf5-4100-9105-0f02ed43c03a.gif" title="Storymaps demo" width="100%" />
+  <img src="[https://github-production-user-asset-6210df.s3.amazonaws.com/17613697/575353231-4e9fcdcb-7bf5-4100-9105-0f02ed43c03a.gif](https://github-production-user-asset-6210df.s3.amazonaws.com/17613697/575353231-4e9fcdcb-7bf5-4100-9105-0f02ed43c03a.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260408%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260408T151310Z&X-Amz-Expires=300&X-Amz-Signature=72d5a3186ad995489624898f2c01aa9c56332261174f9c58fbb0d4a900c9b72f&X-Amz-SignedHeaders=host)" title="Storymaps demo" width="100%" />
 </p>
 ![storymapping](https://github.com/user-attachments/assets/4e9fcdcb-7bf5-4100-9105-0f02ed43c03a)
 
