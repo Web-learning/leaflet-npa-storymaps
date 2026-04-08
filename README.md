@@ -5,6 +5,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 <p align="center">
   <img src="./leaflet-storymaps-demo.gif" title="Storymaps demo" width="100%" />
 </p>
+![storymapping](https://github.com/user-attachments/assets/4e9fcdcb-7bf5-4100-9105-0f02ed43c03a)
 
 ## Live links (replace with your own)
 - Leaflet Map https://github.com/Web-learning/leaflet-npa-storymaps/
