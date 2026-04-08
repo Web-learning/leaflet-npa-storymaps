@@ -1,4 +1,4 @@
-# Leaflet Storymaps with Google Sheets
+# NPA signatories and their storymaps
 Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
 Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
 
