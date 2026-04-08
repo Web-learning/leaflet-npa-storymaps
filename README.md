@@ -1,13 +1,10 @@
 # NPA signatories and their storymaps
-Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
+This is a story map that has a scrolling narrative.
 Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
 
 <p align="center">
   <img src="Storymapping%20intro.gif" title="Storymaps demo" width="100%" />
 </p>
-![storymapping](https://github.com/user-attachments/assets/4e9fcdcb-7bf5-4100-9105-0f02ed43c03a)
-
-
 
 ## Live links (replace with your own)
 - Leaflet Map https://github.com/Web-learning/leaflet-npa-storymaps/
